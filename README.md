@@ -1,3 +1,5 @@
+
+email. luntrasdaniel12@gmail.com
 - 👋 Hi, I’m @DANIELluntras
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -5,6 +7,4 @@
 - 📫 How to reach me ...
 
 <!---
-DANIELluntras/DANIELluntras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DANIELluntras/DANIELluntras is a ✨ special ✨ repository because its `README.md` (this file) 
