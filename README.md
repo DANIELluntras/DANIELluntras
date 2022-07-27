@@ -1,5 +1,13 @@
 
-<img align="right" alt="GIF" src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" width="100%" height="400" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey  I'm Luntras Daniel🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<h3 align="center">Contribution a VORKURT</h3>
+
+
+
+
+<img align="right" alt="GIF" src="https://learnworthy.net/wp-content/uploads/2019/08/5a5de45c5fff06394566e208.gif" width="100%" height="300" />
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 email. luntrasdaniel12@gmail.com
@@ -8,13 +16,43 @@ email. luntrasdaniel12@gmail.com
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on in the field of informatics
 - 📫 How to reach me email luntrasdaniel12@gmail.com
+<br>
+<br>
 
-<!---
-DANIELluntras/DANIELluntras is a ✨ special ✨ repository because its `README.md` (this file) 
+### Connect with me:
+<a href="https://twitter.com/luntras1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
+<br>
+<a href="https://www.linkedin.com/in/dani-luntras-13795b19a/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="33" width="33" /></a>
+<br>
+<a href="https://www.instagram.com/luntras_deniel99/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 
-<p>ma intereseaza sa invat informatica java script
-in prezent invat udemy
-caut sa colaborez cu fireme serioase de informatica java script
-prin emial</p>
 
 
+
+
+
+
+
+#####                                                                     My Studies
+<p align="left">
+
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="44" height="44"/>
+<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="44" height="44"/>
+</p>
+
+#### 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel" /></p>
