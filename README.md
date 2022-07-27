@@ -7,7 +7,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://learnworthy.net/wp-content/uploads/2019/08/5a5de45c5fff06394566e208.gif" width="100%" height="300" />
+<img align="center" alt="GIF" src="https://eportfolio.utm.my/artefact/file/download.php?file=711657&view=178366&embedded=1&text=713709" width="700" height="300" />
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 email. luntrasdaniel12@gmail.com
