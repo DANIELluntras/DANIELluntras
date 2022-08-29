@@ -53,7 +53,7 @@ email. luntrasdaniel12@gmail.com
 
 ![Daniel luntras's github activity graph](https://activity-graph.herokuapp.com/graph?username=DANIELluntras&theme=dracula)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel" /></p>
 
