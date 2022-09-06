@@ -14,10 +14,10 @@ email. luntrasdaniel12@gmail.com
 - 👋 Hi, I’m @DANIELluntras
 - 👀 I’m interested i -nweb development
 - 🌱 I’m currently learning javascript
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=USER+Intellij+" alt="Typing SVG" /></a>
-<br>
-<br>
 
+<br>
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=USER+Intellij+" alt="Typing SVG" /></a>
 ### Connect with me:
 <a href="https://twitter.com/luntras1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 <br>
