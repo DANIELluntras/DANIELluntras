@@ -56,7 +56,7 @@ email. luntrasdaniel12@gmail.com
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel" /></p>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=USER+Intellij+" alt="Typing SVG" /></a>
+
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=7000&pause=1000&color=F70000&background=000000&center=true&vCenter=true&width=435&lines=MACBOOK+PRO+M1+user)](https://git.io/typing-svg)
