@@ -7,7 +7,7 @@
 
 
 
-<img align="center" alt="GIF" src="[https://cdn.dribbble.com/users/674925/screenshots/16957328/media/638cc3f87cc24138263d56a38497ec7c.png](https://cdn.dribbble.com/users/185738/screenshots/6794874/huddle.jpg)" width="1200" height="500" /> 
+<img align="center" alt="GIF" src="[[https://cdn.dribbble.com/users/674925/screenshots/16957328/media/638cc3f87cc24138263d56a38497ec7c.png](https://cdn.dribbble.com/users/185738/screenshots/6794874/huddle.jpg)](https://cdn.dribbble.com/users/185738/screenshots/6794874/huddle.jpg)" width="1200" height="500" /> 
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
