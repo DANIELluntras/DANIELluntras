@@ -1,13 +1,16 @@
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=70&lines=I+am+Luntras+Daniel;web+design+and+frontend)](https://git.io/typing-svg)
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&background=E630C700&vCenter=true&lines=Hi%2C+I'm+Luntras+Daniel++;WEB+DEVELOPER;i+study+1+year" alt="Typing SVG" align="center"/></a>
 </p>
 
 
 
-
-
-
-<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/2893989/screenshots/16236767/media/554e7141509321d24f39a9142403132d.png" width="1200" height="500" /> 
+<img align="center" alt="GIF" src="https://cdn.dribbble.com/users/2893989/screenshots/16236767/media/554e7141509321d24f39a9142403132d.png" width="1100" height="500" /> 
 
 
 
