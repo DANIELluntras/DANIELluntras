@@ -51,7 +51,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel" />
+<p align="center">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel" />
 
 </p>
 
