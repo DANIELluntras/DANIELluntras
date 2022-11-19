@@ -9,7 +9,7 @@
 
 <img align="center" alt="GIF" src="https://cdn.dribbble.com/users/2893989/screenshots/16236767/media/554e7141509321d24f39a9142403132d.png" width="1200" height="500" /> 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 
 <br>
