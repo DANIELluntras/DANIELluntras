@@ -48,7 +48,7 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="44" height="44"/>
 <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="44" height="44"/>
 <img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="44" height="44"/>
-  <img src="  https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="udemy" width="44" height="44"/>
+  <img src="[  https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)" alt="udemy" width="44" height="44"/>
   
   
   
