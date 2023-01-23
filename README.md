@@ -3,12 +3,6 @@
 <p align="center">
   
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=25&background=E630C700&vCenter=true&lines=Hi%2C+I'm+Luntras+Daniel++;WEB+DEVELOPER;i+study+1+year" alt="Typing SVG" align="center"/></a>
-</p>
-
-
-
 <img align="center" alt="GIF" src=" " width="1100" height="500" /> 
 
 
