@@ -1,10 +1,11 @@
 
 
 <p align="center">
-  <h1> - DANIEL LUNTRAS - </h1>
+<h1>  -  DANIEL LUNTRAS - </h1>
 <br>
 <br>
 
+  
 
 <a href="https://twitter.com/luntras1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 <br>
@@ -49,3 +50,9 @@
 <p align="center">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel"/>
 
 </p>
+
+
+
+
+
+
