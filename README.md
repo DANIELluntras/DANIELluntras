@@ -2,8 +2,6 @@
 
 <p align="center">
   <h1>DANIEL LUNTRAS </h1>
-    <h1></h1>
-
 <br>
 <br>
 
@@ -51,9 +49,3 @@
 <p align="center">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel"/>
 
 </p>
-
-
-
-
-
-
