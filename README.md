@@ -45,9 +45,9 @@
 
 
 
-<p align="center" height="100"  width="500" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel"/></p>
+<p align="center"  ><img height="230"  width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel"/></p>
 
-<p align="center">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel"/>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel"/>
 
 </p>
 
