@@ -3,11 +3,6 @@
 <p align="center">
   
 
-<img align="center" alt="GIF" src=" " width="1100" height="500" /> 
-
-
-
-
 <br>
 <br>
 
