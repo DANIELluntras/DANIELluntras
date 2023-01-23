@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <h1>DANIEL LUNTRAS </h1>
+  <h1> - DANIEL LUNTRAS - </h1>
 <br>
 <br>
 
