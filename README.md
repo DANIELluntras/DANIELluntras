@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<h1>  -  DANIEL LUNTRAS - </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=39&pause=1000&color=6CF75B&center=true&width=435&lines=I+am+Luntras+Daniel+;Web+Developer" alt="Typing SVG" /></a>
 <br>
 <br>
 
