@@ -13,6 +13,7 @@
 
 <a href="https://www.instagram.com/luntras_deniel99/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 
+  - 💼  any freelance work? do reach, [ - Email - ](danielluntras3@gmail.com) :)
 
 
 
