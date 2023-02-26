@@ -1,21 +1,14 @@
 
-
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=39&pause=1000&color=6CF75B&center=true&width=435&lines=I+am+Luntras+Daniel+;Web+Developer" alt="Typing SVG" /></a>
 <br>
 <br>
-
-  
-
 <a href="https://twitter.com/luntras1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
 
 <a href="https://www.linkedin.com/in/dani-luntras-13795b19a/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="33" width="33" /></a>
 
 <a href="https://www.instagram.com/luntras_deniel99/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
-
   Any freelance work? do reach, [ - Email - ](danielluntras3@gmail.com) 👨🏽‍💻
-
-
 <a href="https://www.buymeacoffee.com/luntrasdani" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Book" width="200" height="60"></a>
 
 
