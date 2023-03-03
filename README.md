@@ -8,13 +8,11 @@
 <br>
 
   
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)<br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)<br>
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)<br>
 
-<a href="https://twitter.com/luntras1" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
-
-<a href="https://www.linkedin.com/in/dani-luntras-13795b19a/" ><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="33" width="33" /></a>
-
-<a href="https://www.instagram.com/luntras_deniel99/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="react-ui-kit.com" height="33" width="33" /></a>
-  <br>
   Any freelance work? do reach, [ - Email - ](danielluntras3@gmail.com) 👨🏽‍💻
   <br>
 <a href="https://www.buymeacoffee.com/luntrasdani" target="_blank"><img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy Me A Book" width="200" height="60"></a>
@@ -23,20 +21,9 @@
 #####                                                                     My Studies
 <p align="left">
 
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="youtube" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="44" height="44"/>
-<img src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" alt="udemy" width="44" height="44"/>
-  <img src="https://svg2raster.fileformat.info/vlz.jsp?svg=%2Flogos%2Freactjs%2Freactjs-icon.svg" alt="udemy" width="44" height="44"/>
-  
-  
-  
+## 🛠 Skills
+Javascript, HTML, CSS, SASS, NODE.JS, GIT , NPM , REACT.JS , FIGMA , GITHUB ,WEB DEVELOEPER
+
   
   
 
