@@ -33,7 +33,7 @@ I'm a WEB developer...
   
 <p align="left">
 
-## 🛠 Skills
+ ## 🛠 Skills
 Javascript, HTML, CSS, SASS, NODE.JS, GIT , NPM , REACT.JS , FIGMA , GITHUB ,WEB DEVELOEPER
 
   
@@ -47,6 +47,8 @@ Javascript, HTML, CSS, SASS, NODE.JS, GIT , NPM , REACT.JS , FIGMA , GITHUB ,WEB
 
 ## 🙌🏽 Use Language
 <p align="center"  ><img height="230"  width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANIELluntras&layout=compact&hide=html" alt="daniel"/></p>
+
+
 ## 🫶🏽 Contribution
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=DANIELluntras&show_icons=true" alt="daniel"/>
