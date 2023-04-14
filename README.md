@@ -7,17 +7,9 @@
 <br>
 
   
-  <p>
- DDDDD    AAAA   N    N  IIII  EEEEE   L        *     U   U   NN   N   TTTTT   RRRRRR   A     S  S 
-D     D  A    A  NN   N   II   E       L        *     U   U   N N  N     T     R    R  A A   s    S 
-D     D  A    A  N N  N   II   E       L        *     U   U   N  N N     T     R    R  A  A  S 
-D     D  AAAAAA  N  N N   II   EEEEE   L        *     U   U   N   NN     T     RRRRRR AAAAA    S 
-D     D  A    A  N   NN   II   E       L        *     U   U   N    N     T     R  R   A   A      S
-D     D  A    A  N    N   II   E       L        *     U   U   N    N     T     R   R  A   A  S     S 
- DDDDD   A    A  N    N  IIII  EEEEE   LLLLL    ***** UUUUU   N    N     T     R    R A    A  S  S 
-</p>
   
-  
+
+
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
